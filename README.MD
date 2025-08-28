@@ -1,3 +1,3 @@
-# 💫 About Me:
-🚀 Estudante de ADS (Analise e Desenvolvimento de Sistemas).<br>🙌 desenvolvedor back-end na empresa DirectWeb
+Formado em ADS (Analise e Desenvolvimento de Sistemas) na FIAP.
+Atualmente desenvolvedor PHO na empresa DirectWeb
 
