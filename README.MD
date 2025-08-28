@@ -1,3 +1,3 @@
-Formado em ADS (Analise e Desenvolvimento de Sistemas) na FIAP.
-Atualmente desenvolvedor PHO na empresa DirectWeb
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela FIAP.
+💻 Atualmente desenvolvedor PHP na empresa DirectWeb
 
